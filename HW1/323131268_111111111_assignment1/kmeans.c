@@ -124,7 +124,6 @@ int main(int argc, char *argv[]) {
             }
             pointsInCluster[i] = 0;
         }
-        
         /* assign each point to the closest cluster based on distance */
         for ( i = 0; i < n; i++){
             minDistance = calculateDistance(pointMatrix[i], clusterMatrix[0], d);
