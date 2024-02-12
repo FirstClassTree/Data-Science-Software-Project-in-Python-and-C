@@ -1,1 +1,1 @@
-HW1 is implmenting Kmeans algoritm in C and in Python
+HW1 is an implantation of Kmeans algoritm in C and in Python
